@@ -33,6 +33,7 @@ const Product = () => {
     { id: 4, brand: "samsung" },
     { id: 5, brand: "nokia" },
   ];
+  // filtering
 
   const ratingCheckbox = [
     { id: 1, rating: "1" },
