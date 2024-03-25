@@ -6,8 +6,6 @@ import Moment from "@/component/moment/moment";
 import News from "@/component/news/news";
 import TrendingProduct from "@/component/trendingProduct/trendingProduct";
 import WhatWeDo from "@/component/whatWeDo/whatWeDo";
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
 
 export default function Home() {
   return (

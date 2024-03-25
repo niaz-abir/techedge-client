@@ -1,6 +1,6 @@
 "use client";
 import { TimerIcon } from "lucide-react";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const Timer = () => {
   const initialTimeInSeconds = 48 * 60 * 60; // 48 hours in seconds

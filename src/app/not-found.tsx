@@ -1,5 +1,4 @@
 import { Smile } from "lucide-react";
-import React from "react";
 
 const NotFound = () => {
   return (

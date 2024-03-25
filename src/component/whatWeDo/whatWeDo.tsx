@@ -1,5 +1,4 @@
 import { Blocks } from "lucide-react";
-import React from "react";
 
 const WhatWeDo = () => {
   return (

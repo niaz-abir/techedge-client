@@ -1,5 +1,3 @@
-import React from "react";
-
 const Moment = () => {
   return (
     <section className="mt-14">

@@ -1,15 +1,7 @@
 import { Button } from "@/components/ui/button";
-import {
-  Banknote,
-  CalendarDays,
-  CircleDollarSign,
-  FolderPen,
-  Slack,
-  Star,
-} from "lucide-react";
+import { CalendarDays, CircleDollarSign, Slack, Star } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
 
 type TPlashSale = {
   _id: string;

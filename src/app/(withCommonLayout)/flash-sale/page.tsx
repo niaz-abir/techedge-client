@@ -1,7 +1,6 @@
 import Timer from "@/component/timer/timer";
 import { CalendarDays, CircleDollarSign, Slack, Star } from "lucide-react";
 import Image from "next/image";
-import React, { useEffect, useState } from "react";
 
 type TPlashSale = {
   _id: string;

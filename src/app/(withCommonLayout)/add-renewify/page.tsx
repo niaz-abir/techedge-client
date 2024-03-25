@@ -1,5 +1,7 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable @next/next/no-img-element */
 "use client";
-import React from "react";
+
 import { Blocks, Radiation, SmartphoneNfc, SearchCheck } from "lucide-react";
 import { useForm } from "react-hook-form";
 import axios from "axios";
