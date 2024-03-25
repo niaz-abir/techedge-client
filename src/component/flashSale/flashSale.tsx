@@ -12,11 +12,14 @@ type TPlashSale = {
 };
 
 const FlashSale = async () => {
-  const res = await fetch("http://localhost:5000/api/v1/flash-sale", {
-    next: {
-      revalidate: 30,
-    },
-  });
+  const res = await fetch(
+    "https://techedge-server.vercel.app/api/v1/flash-sale",
+    {
+      next: {
+        revalidate: 30,
+      },
+    }
+  );
   const data = await res.json();
 
   return (
