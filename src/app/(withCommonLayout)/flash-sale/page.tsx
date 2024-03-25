@@ -21,67 +21,6 @@ const FlashSale = async () => {
   const data = await res.json();
   console.log(data);
 
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //     {
-  //       id: "1",
-  //       name: "Smartphone X",
-  //       description: "A high-end smartphone with advanced features.",
-  //       images:
-  //         "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  //       price: 999,
-  //       flashSale: true,
-  //       createdAt: "2024-03-21T10:00:00Z",
-  //     },
-  //   ];
   return (
     <section className="mt-14 m-6 lg:ml-8">
       <div className="flex items-center gap-8 pb-8">
