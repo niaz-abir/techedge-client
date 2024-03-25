@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 20000,
+    "images": "https://images.unsplash.com/photo-1546027658-7aa750153465?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 5,
+    "brands": "walton",
+    "createdAt": "4-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Pixel Xl",
+    "price": 15000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 4.5,
+    "brands": "pixel",
+    "createdAt": "5-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Sony Z",
+    "price": 14000,
+    "images": "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 4.2,
+    "brands": "sony",
+    "createdAt": "6-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Pixel M",
+    "price": 13000,
+    "images": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 4,
+    "brands": "pixel",
+    "createdAt": "7-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Walton Xz",
+    "price": 12000,
+    "images": "https://images.unsplash.com/photo-1582807129843-8a00296ccb37?q=80&w=1491&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 3,
+    "brands": "walton",
+    "createdAt": "8-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Samsung Xl",
+    "price": 10000,
+    "images": "https://images.unsplash.com/photo-1556656793-08538906a9f8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 3,
+    "brands": "samsung",
+    "createdAt": "9-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Samsung Ml",
+    "price": 9000,
+    "images": "https://images.unsplash.com/photo-1519336305162-4b6ed6b6fc83?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 3,
+    "brands": "samsung",
+    "createdAt": "10-06-2024"
+  },
+  {
+    "id": 1,
+    "name": "Nokia 32",
+    "price": 8000,
+    "images": "https://images.unsplash.com/photo-1563452619267-bc16ef6cecec?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": 3,
+    "brands": "nokia",
+    "createdAt": "11-06-2024"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 10000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "3 star",
+    "brands": "walton",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  },
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 15000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "2 star",
+    "brands": "pixel",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  },
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 17000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "4 star",
+    "brands": "walton",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  },
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 21000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "4 star",
+    "brands": "sony",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  },
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 35000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "5 star",
+    "brands": "walton",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  },
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 45000,
+    "images": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flashSale": true,
+    "rating": "3 star",
+    "brands": "samsung",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "details": "This is a great phone for us .we will enojyed it to use.There are lot of pople enjoyed it .We have nothing to do at this moment. Have fun for more details"
+  }
+]
