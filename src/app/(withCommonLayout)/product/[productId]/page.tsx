@@ -2,7 +2,11 @@ import Image from "next/image";
 import React from "react";
 import { Star, CirclePlay, Telescope } from "lucide-react";
 
-const ProductId = async ({ params }) => {
+type TParams = {
+  productId?: string;
+};
+
+const ProductId = async ({ params }: { params: TParams }) => {
   const res = await fetch(
     `http://localhost:8000/api/v1/all-products/${params?.productId}`,
     {

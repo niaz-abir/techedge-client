@@ -40,7 +40,7 @@ const FlashSale = async () => {
             and share with you family.
           </p>
         </div>
-        <div className="mb-2 lg:mb-0">
+        <div className="mb-2 ml-4 lg:ml-0 pb-4 lg:mb-0">
           <Link href="/flash-sale ">
             <Button className=" bg-sky-700 rounded-md ">View All</Button>
           </Link>

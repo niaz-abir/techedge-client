@@ -16,6 +16,15 @@ const Dashboard = async () => {
     cache: "no-store",
   });
   const data = await res.json();
+
+  type TDonationItem = {
+    _id: string;
+    images: string;
+    name: string;
+    rating: string;
+    price: string;
+    brands: string;
+  };
   return (
     <div className="grid grid-cols-12 mt-10 ml-8 ">
       <div className="col-span-2  ">
@@ -24,7 +33,7 @@ const Dashboard = async () => {
         </h1>
       </div>
       <div className=" col-span-10 h-[200vh] ">
-        <h1 className="text-2xl font-semibold pb-8 flex gap-4 items-center pt-4">
+        <h1 className="text-2xl hidden font-semibold pb-8 lg:flex gap-4 items-center pt-4">
           Show all products <Eye />
         </h1>
         <Table className="bg-[#060607] ">
