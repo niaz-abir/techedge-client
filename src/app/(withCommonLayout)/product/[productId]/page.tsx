@@ -18,7 +18,7 @@ export async function generateStaticParams() {
   const firstTenMobile = mobile.slice(0, 10);
 
   return firstTenMobile.map((mobile: mobile) => ({
-    laptopId: mobile?._id,
+    mobileId: mobile?._id,
   }));
 }
 
