@@ -13,7 +13,8 @@ const ProductId = async ({ params }: { params: TParams }) => {
       cache: "no-store",
     }
   );
-  console.log(params?.productId);
+  // console data
+
   const product = await res.json();
 
   return (
