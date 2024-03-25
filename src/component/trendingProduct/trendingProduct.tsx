@@ -18,11 +18,14 @@ type TTrending = {
   brands: string;
 };
 const TrendingProduct = async () => {
-  const res = await fetch("http://localhost:8000/api/v1/all-products", {
-    next: {
-      revalidate: 30,
-    },
-  });
+  const res = await fetch(
+    "https://techedge-server.vercel.app/api/v1/all-products",
+    {
+      next: {
+        revalidate: 30,
+      },
+    }
+  );
   const data = await res.json();
   return (
     <section className="mt-24 ml-4 lg:ml-10">

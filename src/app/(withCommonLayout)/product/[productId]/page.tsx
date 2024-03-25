@@ -8,7 +8,7 @@ type TParams = {
 
 const ProductId = async ({ params }: { params: TParams }) => {
   const res = await fetch(
-    `http://localhost:8000/api/v1/all-products/${params?.productId}`,
+    `https://techedge-server.vercel.app/api/v1/all-products/${params?.productId}`,
     {
       cache: "no-store",
     }

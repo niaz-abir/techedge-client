@@ -36,7 +36,7 @@ const AddRenwify = () => {
         price: data?.price,
       };
       console.log(formDataToSubmit);
-      fetch("http://localhost:8000/api/v1/create-reverie", {
+      fetch("https://techedge-server.vercel.app/api/v1/create-reverie", {
         method: "POST",
         headers: {
           "content-type": "application/json",

@@ -50,9 +50,12 @@ const Product = () => {
 
   const fetchData = async () => {
     try {
-      const res = await fetch("http://localhost:8000/api/v1/all-products", {
-        cache: "no-store",
-      });
+      const res = await fetch(
+        "https://techedge-server.vercel.app/api/v1/all-products",
+        {
+          cache: "no-store",
+        }
+      );
       const data = await res.json();
       setProducts(data);
     } catch (error) {
