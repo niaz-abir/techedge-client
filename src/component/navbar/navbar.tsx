@@ -53,7 +53,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="catagories"
+                href="/catagories"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 About
@@ -61,7 +61,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="product"
+                href="/product"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 product
@@ -69,7 +69,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="flash-sale"
+                href="/flash-sale"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Flash sale
@@ -77,7 +77,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="renewify"
+                href="/renewify"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Renewify
@@ -93,7 +93,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="add-renewify"
+                href="/add-renewify"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Add Renewify
@@ -101,7 +101,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                href="dashboard"
+                href="/dashboard"
                 className="block py-2 px-3  rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Dashboard
