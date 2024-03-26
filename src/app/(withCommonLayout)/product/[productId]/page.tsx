@@ -5,6 +5,21 @@ import { Star, CirclePlay, Telescope } from "lucide-react";
 type TParams = {
   productId?: string;
 };
+type Mobile = {
+  _id: string;
+};
+
+export async function generateStaticParams() {
+  const mobile = await fetch(
+    "https://techedge-server.vercel.app/api/v1/all-products"
+  ).then((res) => res.json());
+
+  const firstTenLaptops = mobile.slice(0, 10);
+
+  return firstTenLaptops.map((mobile: Mobile) => ({
+    mobileId: mobile?._id,
+  }));
+}
 
 const ProductId = async ({ params }: { params: TParams }) => {
   const res = await fetch(
