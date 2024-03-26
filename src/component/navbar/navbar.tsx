@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { Group } from "lucide-react";
 import Link from "next/link";
+// navbar
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
